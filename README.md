@@ -26,14 +26,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Screenshot](./screenshot.png)
 
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/social-links-profile-challenge-nPmPLq0Z1s)
+- Live Site URL: [Site](https://k1ng5.github.io/Frontend-Mentor-Profile-Links/)
 
 ## My process
 
